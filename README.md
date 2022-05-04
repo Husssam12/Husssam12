@@ -21,7 +21,7 @@
   </a>
   
   <a href="https://pub.dev/publishers/flutterbots.dev/packages">
-    <img alt="Pub Publisher" src="https://img.shields.io/pub/publisher/bot_storage?style=for-the-badge">
+    <img alt="Pub Publisher" src="https://img.shields.io/pub/publisher/bot_storage?label=%20&logo=flutter&style=for-the-badge">
   </a>
   
 </div>
