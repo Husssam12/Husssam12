@@ -29,6 +29,6 @@
 ### :man_technologist: About Me :
 
 - 🐦 I’m currently working on Flutter and Dart projects and packages.
-- 🌱 I’m currently keep learnin moblie development and ML.
+- 🌱 I’m currently keep learning moblie development and ML.
 - 👯 I’m looking to collaborate on flutter packages and plugins.
 - ⚡ Fun fact: Every thing is a widget, This is not true.
