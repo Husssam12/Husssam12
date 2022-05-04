@@ -7,15 +7,22 @@
   </h1>
   
 <div id="badges">
+  
   <a href="https://www.linkedin.com/in/hussam-hajjar-b5b5511b4">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!--   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  
+  <a href="https://www.facebook.com/profile.php?id=100005646828057">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
+  
+   <a href="hussamhajjar.it@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  
+  <a href="https://pub.dev/publishers/flutterbots.dev/packages">
+    <img alt="Pub Publisher" src="https://img.shields.io/pub/publisher/bot_storage?style=for-the-badge">
+  </a>
   
 </div>
   <img src="https://komarev.com/ghpvc/?username=Husssam12&style=flat-square&color=blue" alt=""/>
