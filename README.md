@@ -1,41 +1,36 @@
+<h1 align="center">Hi 👋, I'm Hussam</h1>
+<h3 align="center">Software Engineer & Mobile Software Developer</h3>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  
-<div id="badges">
-  
-  <a href="https://www.linkedin.com/in/hussam-hajjar-b5b5511b4">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <a href="https://www.facebook.com/profile.php?id=100005646828057">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  
-   <a href="hussamhajjar.it@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  
-  <a href="https://pub.dev/publishers/flutterbots.dev/packages">
-    <img alt="Pub Publisher" src="https://img.shields.io/pub/publisher/bot_storage?label=%20&logo=flutter&style=for-the-badge">
-  </a>
-  
-</div>
-  <img src="https://komarev.com/ghpvc/?username=Husssam12&style=flat-square&color=blue" alt=""/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=husssam12&label=Profile%20views&color=0e75b6&style=flat" alt="husssam12" /> </p>
 
-  
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=husssam12" alt="husssam12" /></a> </p>
 
+- 🔭 I’m currently working on [Passengers](https://github.com/flutterbots/passengers)
 
+- 🌱 I’m currently keep learning **Mobile Software Engineering & ML/AI**
 
+- 👯 I’m looking to collaborate on [Flutter Bots](https://github.com/flutterbots/flutterbots)
 
-### :man_technologist: About Me :
+- 💬 Ask me about **Flutter, Dart, Android**
 
-- 🐦 I’m currently working on Flutter and Dart projects and packages.
-- 🌱 I’m currently keep learning moblie development and ML.
-- 👯 I’m looking to collaborate on flutter packages and plugins.
-- ⚡ Fun fact: Every thing is a widget, This is not true.
+- 📫 How to reach me **hussamhajjar.it@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1iDkbRh0Q7VDFu-H7vgJEi3z9s4j86QBkM9v9Q7KIy3g/edit?usp=sharing)
+
+- ⚡ Fun fact **Many owners of large tech companies loved video games as kids**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hussam-hajjar-b5b5511b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussam-hajjar-b5b5511b4" height="30" width="40" /></a>
+<a href="https://fb.com/100005646828057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100005646828057" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hussamhajjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hussamhajjar" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=husssam12&show_icons=true&locale=en&layout=compact" alt="husssam12" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=husssam12&show_icons=true&locale=en" alt="husssam12" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=husssam12&" alt="husssam12" /></p>
