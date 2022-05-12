@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=husssam12" alt="husssam12" /></a> </p>
 
-- 🔭 I’m currently working on [Passengers](https://github.com/flutterbots/passengers)
+- 🔭 I’m currently working on [Passengers](https://github.com/husssam12/passengers)
 
 - 🌱 I’m currently keep learning **Mobile Software Engineering & ML/AI**
 
