@@ -1,7 +1,11 @@
+<p align="center"> <img src="dart_side.webp" alt="husssam12" width="400" /> </p>
+
 <h1 align="center">Hi 👋, I'm Hussam</h1>
+
 <h3 align="center">Software Engineer & Mobile Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=husssam12&label=Profile%20views&color=0e75b6&style=flat" alt="husssam12" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=husssam12&label=Profile%20views&color=0e75b6&style=flat" alt="husssam12" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=husssam12" alt="husssam12" /></a> </p>
 
